@@ -1,10 +1,7 @@
-# CASTILLO_Python_EDA_on_Spotify_2023_Dataset
-## Created by: CASTILLO, Aurabella Macy F.
-## I am a 2nd Year Electronics Engineering Student from the University of Santo Tomas.
+# Spotify 2023 Data Analysis - EDA by Aurabella Castillo (2nd Year Electronics Engineering, University of Santo Tomas)
 
 ## 1. Introduction
-
-### This document outlines the objectives and key sections of the Spotify 2023 Data Analysis project. The project aims to conduct an Exploratory Data Analysis (EDA) on the "Most Streamed Spotify Songs 2023" dataset (https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023).
+### This document outlines the objectives and key sections of the Spotify 2023 Data Analysis project. This project, conducted by Aurabella Castillo, aims to explore the "Most Streamed Spotify Songs 2023" dataset (https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) using Exploratory Data Analysis (EDA).
 
 ## 2. Objectives
 
@@ -40,6 +37,6 @@ Platform Comparison: Comparing the number of tracks across platforms (Spotify pl
 ### g. Advanced Analysis: Investigating streams based on key/mode and artist/genre presence within playlists and charts offered deeper insights into listener preferences and platform curation.
 
 ## 6. Tools and Resources
-### - Programming Language: Python (Made in Jupyter Notebook)
+### - Programming Language: Python (in Jupyter Notebook)
 ### - Data Analysis Libraries: Pandas, NumPy, and Matplotlib
 ### - Data Source: The "Most Streamed Spotify Songs 2023" dataset
